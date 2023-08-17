@@ -1,1 +1,1 @@
-This is my git playground
+This is our git playground.
